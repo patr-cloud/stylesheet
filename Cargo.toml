@@ -1,7 +1,9 @@
 [package]
 name = "stylesheet"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2021"
+description = "A common set of utilities for working with CSS stylesheets."
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
